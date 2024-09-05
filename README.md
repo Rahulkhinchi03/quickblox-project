@@ -68,4 +68,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### 🙌 Acknowledgments
-Big thanks to Quickblox for providing a great platform for real-time communication and making this project possible!
+Big thanks to [Quickblox](https://quickblox.com/) for providing a great platform for real-time communication and making this project possible!
