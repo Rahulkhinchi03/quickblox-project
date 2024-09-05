@@ -32,6 +32,7 @@ Make sure you have the following installed on your system:
    authSecret: 'YOUR_AUTH_SECRET',
    accountKey: 'YOUR_ACCOUNT_KEY',
    };
+
    export default QBConfig;
 
   Replace 'YOUR_APP_ID', 'YOUR_AUTH_KEY', 'YOUR_AUTH_SECRET', and 'YOUR_ACCOUNT_KEY' with your actual Quickblox credentials.
