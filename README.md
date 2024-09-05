@@ -37,13 +37,6 @@ Make sure you have the following installed on your system:
 
   Replace 'YOUR_APP_ID', 'YOUR_AUTH_KEY', 'YOUR_AUTH_SECRET', and 'YOUR_ACCOUNT_KEY' with your actual Quickblox credentials.
 
-4. Running the Project
-   To run the project locally:
-   ```bash
-   npm run dev
-
-This command will start the development server. Open your browser and navigate to http://localhost:3000 to see the chatbot in action!
-
 ### 🛠️ Features
 
 - Quick Setup: Uses Vite for fast and easy project setup.
