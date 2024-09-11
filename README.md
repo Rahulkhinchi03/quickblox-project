@@ -1,6 +1,6 @@
 # Quickblox Chatbot in React with Vite
 
-This repository contains the source code for a simple chatbot built using [Quickblox](https://quickblox.com/) in a React application with Vite. The project demonstrates how to integrate Quickblox's real-time communication platform and its React UI Kit to create a functional chatbot application.
+This repository contains the source code for a simple chatbot built using [Quickblox](https://quickblox.com/?red=rahulk) in a React application with Vite. The project demonstrates how to integrate Quickblox's real-time communication platform and its React UI Kit to create a functional chatbot application.
 
 ## 🚀 Getting Started
 
@@ -53,7 +53,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 - Open a pull request.
 
 ### 📚 Resources
-- [Quickblox Documentation](https://docs.quickblox.com/)
+- [Quickblox Documentation](https://quickblox.com/?red=rahulk)
 - [Quickblox React UI Kit](https://docs.quickblox.com/docs/react-uikit-overview)
 - [Quickblox Code Samples](https://docs.quickblox.com/docs/code-samples)
 
@@ -61,4 +61,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### 🙌 Acknowledgments
-Big thanks to [Quickblox](https://quickblox.com/) for providing a great platform for real-time communication and making this project possible!
+Big thanks to [Quickblox](https://quickblox.com/?red=rahulk) for providing a great platform for real-time communication and making this project possible!
